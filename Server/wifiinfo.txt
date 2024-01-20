@@ -1,0 +1,1 @@
+for /f "tokens=2 delims=:" %i in ('netsh wlan show interfaces ^| find "SSID"') do @echo %i
